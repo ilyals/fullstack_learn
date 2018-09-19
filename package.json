@@ -1,0 +1,26 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "server": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyals/fullstack_learn.git"
+  },
+  "author": "Ilya Luskanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ilyals/fullstack_learn/issues"
+  },
+  "homepage": "https://github.com/ilyals/fullstack_learn#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
