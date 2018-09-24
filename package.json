@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/ilyals/fullstack_learn#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.17",
+    "morgan": "^1.9.1"
   },
   "devDependencies": {
     "nodemon": "^1.18.4"
